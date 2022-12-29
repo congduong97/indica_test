@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "531403751295",
+    "project_id": "indica-test",
+    "storage_bucket": "indica-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531403751295:android:dab0a3d2188b8b93c2644a",
+        "android_client_info": {
+          "package_name": "com.indica_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531403751295-ka9kct7d7f5hn7r661vcuask0e6qpo7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indica_test",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "531403751295-dsb8jvq4bdb7aoip6ehos4r272hk3tp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwd16rn8U7XBx8sXs9bF9es8Evzy5m6TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531403751295-dsb8jvq4bdb7aoip6ehos4r272hk3tp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

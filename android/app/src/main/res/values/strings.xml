@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">indica_test</string>
+    <string name="facebook_app_id">543126234189793</string>
+    <string name="facebook_client_token">64351d2d9fa3366222f2635650968664</string>
+</resources>
